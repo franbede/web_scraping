@@ -1,0 +1,9 @@
+Instrucciones:
+
+1) Crear entorno virtual (con mkvirtualenv) e instalar selenium (pip install selenium)
+2) Crear directorio para guardar los archivos
+3) Descargar el chromedriver para la version instalada de Google Chrome (https://sites.google.com/a/chromium.org/chromedriver/downloads)
+4) Copiar el archivo chromedriver al directorio del proyecto
+5) Activar el entorno virtual en el directorio (workon [nombre_env])
+6) Ejecutar el archivo web_scraping.py en consola (python web_scraping.py) o en Visual Studio Code (eligiendo el entorno virtual creado anteriormente)
+7) Comprobar resultado del script en el archivo generado (capture.png)
