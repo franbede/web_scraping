@@ -26,7 +26,6 @@ Temporary Items
 .apdisk
 
 # Additional files and directories
-__pychache__
 build
 dist
 *.png

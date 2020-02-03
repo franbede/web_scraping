@@ -1,4 +1,4 @@
-# web_scraping
+# Web scraping with Python
 Examples of web scraping with Python
 
 Most of the intial code has been extracted from:  

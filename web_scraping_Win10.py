@@ -60,7 +60,7 @@ def main():
     elem.send_keys(Keys.RETURN)"""
 
     # screenshot capture of full page
-    driver.get_screenshot_as_file("capture.png")
+    # driver.get_screenshot_as_file("capture.png")
     driver.close()
 
 if __name__ == '__main__' : main()
