@@ -5,16 +5,12 @@ Most of the intial code has been extracted from:
 https://thinkdiff.net/python/how-to-run-javascript-in-python-web-scraping-testing/
 
 ## Required packages
-### Selenium
+### Selenium (v3.141.0)
 - pip install selenium  
-- Version used: 3.141.0 (latest)
-### Pillow
+### Pillow (v7.0.0)
 - pip install Pillow  
-- Version used: 7.0.0
-### PyInstaller
+### PyInstaller (v3.6)
 - pip install pyinstaller  
-- Version used: 3.6
-
 ## Notes on Google Chrome driver:
 - Version -> ChromeDriver 79.0.3945.36  
 - OS -> macOS (chromedriver), Windows (chromedriver.exe)
